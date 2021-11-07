@@ -56,3 +56,5 @@ dkms.conf
 
 # Rest
 .jpg
+.DS_Store
+
